@@ -1,0 +1,15 @@
+{
+  "name":"A58000000A-000010",
+  "title":"行政院所屬中央及地方機關代碼",
+  "description":"行政院所屬中央及地方機關、公立學校代碼",
+  "license":"政府資料開放授權條款-第1版",
+  "homepage":null,
+  "sources":{
+    "name":"行政院人事行政總處"
+  },
+  "author":{
+    "name":"莫淑文 小姐",
+    "email":"mo@dgpa.gov.tw"
+  },
+  "keywords":"資料開放專區、機關代碼"
+}
